@@ -1,0 +1,23 @@
+2025-07-20T00:08:50.451+06:00  INFO 6961 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Starting McpExampleApplication using Java 21.0.8 with PID 6961 (/Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/mcp-example/target/classes started by mukitulislam in /Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/mcp-example)
+2025-07-20T00:08:50.457+06:00  INFO 6961 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-07-20T00:08:50.659+06:00  INFO 6961 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-07-20T00:08:50.660+06:00  INFO 6961 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-07-20T00:08:50.660+06:00  INFO 6961 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-07-20T00:08:50.660+06:00  INFO 6961 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-07-20T00:08:50.711+06:00  INFO 6961 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Started McpExampleApplication in 0.398 seconds (process running for 0.596)
+2025-07-20T00:51:55.740+06:00  INFO 7790 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Starting McpExampleApplication using Java 21.0.8 with PID 7790 (/Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/mcp-example/target/classes started by mukitulislam in /Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/mcp-example)
+2025-07-20T00:51:55.740+06:00  INFO 7790 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-07-20T00:51:55.991+06:00  INFO 7790 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-07-20T00:51:55.992+06:00  INFO 7790 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-07-20T00:51:55.992+06:00  INFO 7790 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-07-20T00:51:55.992+06:00  INFO 7790 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-07-20T00:51:55.992+06:00  INFO 7790 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-07-20T00:51:56.050+06:00  INFO 7790 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Started McpExampleApplication in 0.446 seconds (process running for 0.688)
+2025-07-20T00:52:24.211+06:00  INFO 7831 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Starting McpExampleApplication using Java 21.0.8 with PID 7831 (/Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/mcp-example/target/classes started by mukitulislam in /Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/mcp-example)
+2025-07-20T00:52:24.211+06:00  INFO 7831 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-07-20T00:52:24.446+06:00  INFO 7831 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-07-20T00:52:24.447+06:00  INFO 7831 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-07-20T00:52:24.447+06:00  INFO 7831 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-07-20T00:52:24.447+06:00  INFO 7831 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-07-20T00:52:24.447+06:00  INFO 7831 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-07-20T00:52:24.494+06:00  INFO 7831 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Started McpExampleApplication in 0.411 seconds (process running for 0.595)
