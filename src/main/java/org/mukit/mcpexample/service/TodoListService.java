@@ -11,7 +11,7 @@ import java.util.List;
 @Service
 public class TodoListService {
 
-    private final Path todoListFile = Paths.get("/Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/mcp-example/todo-list.txt");
+    private final Path todoListFile = Paths.get("/Volumes/T7 Shield/MUKITUL-WORKSPACE/Coding/mcp-server-test-project/my-todo-list-mcp-server/todo-list.txt");
 
     public TodoListService() {
         super();
