@@ -21,3 +21,11 @@
 2025-07-20T00:52:24.447+06:00  INFO 7831 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
 2025-07-20T00:52:24.447+06:00  INFO 7831 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
 2025-07-20T00:52:24.494+06:00  INFO 7831 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Started McpExampleApplication in 0.411 seconds (process running for 0.595)
+2025-07-21T16:35:20.387+06:00  INFO 41530 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Starting McpExampleApplication using Java 22.0.2 with PID 41530 (/home/bKash.com/mukitul.exabyting/WORKSPACE/PROJECTS/SELF/mcp-server-test-project/target/classes started by mukitul.exabyting in /home/bKash.com/mukitul.exabyting/WORKSPACE/PROJECTS/SELF/mcp-server-test-project)
+2025-07-21T16:35:20.389+06:00  INFO 41530 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : No active profile set, falling back to 1 default profile: "default"
+2025-07-21T16:35:21.026+06:00  INFO 41530 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable tools capabilities, notification: true
+2025-07-21T16:35:21.027+06:00  INFO 41530 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Registered tools: 2
+2025-07-21T16:35:21.028+06:00  INFO 41530 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable resources capabilities, notification: true
+2025-07-21T16:35:21.029+06:00  INFO 41530 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable prompts capabilities, notification: true
+2025-07-21T16:35:21.029+06:00  INFO 41530 --- [mcp-example] [main] o.s.a.m.s.a.McpServerAutoConfiguration   : Enable completions capabilities
+2025-07-21T16:35:21.169+06:00  INFO 41530 --- [mcp-example] [main] o.m.mcpexample.McpExampleApplication     : Started McpExampleApplication in 1.291 seconds (process running for 1.893)
