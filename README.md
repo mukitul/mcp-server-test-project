@@ -84,3 +84,8 @@ Here's how you can set it up too 👇
     ```
    
 🎉 Your MCP server will respond and update the todo-list.txt behind the scenes!
+
+## 🖼️ Visual Guide: VS Code Agent Setup
+
+Here’s how the MCP server integrates with AI agent mode in VS Code with a GPT-4.1 model
+![VS Code MCP Agent Setup](images/todo-list-mcp-server-vs-code.png)
